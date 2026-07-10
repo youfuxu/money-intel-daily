@@ -33,6 +33,7 @@ def clean_body_lines(lines):
     keep = [ln for ln in lines
             if "[Add" not in ln
             and "beehiiv.com" not in ln
+            and "youfuxu.github.io/money-intel-daily" not in ln
             and not ln.lstrip().startswith("📊 Read this breakdown as an article")
             and not ln.lstrip().startswith("📺")
             and not ln.lstrip().startswith("🔔")]
