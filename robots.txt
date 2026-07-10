@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youfuxu.github.io/money-intel-daily/sitemap.xml
